@@ -13,4 +13,4 @@ If a borrower defaults, LGD calculates the amount of money that is lost given by
 ### 3) Exposure at Default
 This is the total value a bank is exposed to when a loan defaults.
 
-These models were created in order to predict their respective purposes for given borrowers in the year of 2015. These values were saved and then used in order to calculuate the total Expectd Loss for the creditor.
+These models were created in order to predict their respective purposes for given borrowers in the year of 2015. These values were saved and then used in order to calculuate the total Expected Loss for the creditor.
