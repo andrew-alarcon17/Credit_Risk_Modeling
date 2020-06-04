@@ -1,11 +1,15 @@
 # Credit_Risk_Modeling
 
+## About the Data
+
+This data contains information about consumer loans in 2015 by a company called Lending Club. Features in this data include credit scores, number of finance inquiries, address including zip codes, and state, and many others. The file is a matrix of about 421 thousand observations and 74 variables.
+
 ## Project Summary
 
 For this project, I will be exploring a dataset of debtors (borrowers) in order to try to compute three main components:
 
 ### 1) Probability of Default
-This estimates the likelihood that a borrower will be unable to meet its debt obligations.
+This estimates the likelihood that a borrower will be unable to meet its debt obligations. In the Monitoring notebook, the data is cleaned and preprocessed in order to create the PD Model.
 
 ### 2) Loss Given Default
 If a borrower defaults, LGD calculates the amount of money that is lost given by the creditor as a percentage of total exposure at the time of default.
