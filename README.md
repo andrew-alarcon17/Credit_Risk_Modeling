@@ -21,4 +21,6 @@ These models were created in order to predict their respective purposes for give
 
 ## Conclusion
 
+<img src="https://github.com/andrew-alarcon17/Credit_Risk_Modeling/blob/master/Visualizations/Expected%20Loss.png" width="700">
 
+<img src="https://github.com/andrew-alarcon17/Credit_Risk_Modeling/blob/master/Visualizations/Total%20Values.png" width="700">
