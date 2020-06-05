@@ -6,7 +6,7 @@ This data contains information about consumer loans in 2015 by a company called 
 
 ## Project Summary
 
-For this project, I will be exploring a dataset of debtors (borrowers) in order to try to compute three main components:
+This project was built after completing the Credit Risk Modeling course from 365 Data Science. For this project, I will be exploring a dataset of debtors (borrowers) in order to try to compute three main components:
 
 ### A) Probability of Default
 This estimates the likelihood that a borrower will be unable to meet its debt obligations. In the Monitoring notebook, the data is cleaned and preprocessed in order to create the PD Model.
